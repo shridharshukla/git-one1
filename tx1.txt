@@ -1,2 +1,19 @@
 dssdydts
 gd576t7f
+
+=================git 5===============
+git status
+git add
+git commit
+git push
+git pull
+git <-
+https://www.youtube.com/watch?v=0fKg7e37bQE
+
+--------------strt up dya ----
+frst - git pull
+chnges do thn - git add
+
+escp -wq
+
+
